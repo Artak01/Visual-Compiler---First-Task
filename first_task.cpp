@@ -100,10 +100,10 @@ int main()
                 }
                 tmp_type[tmp_type.size() - 1] = '\0';
             }
-        auto it = std::find(AllTypes.begin(), AllTypes.end(), tmp_type);
+        /*auto it = std::find(AllTypes.begin(), AllTypes.end(), tmp_type);
             if (it == AllTypes.end()){
                tmp_type = "Undefine";
-            }
+            }*/
 
 
         } else {
