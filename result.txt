@@ -1,0 +1,7 @@
+Type               Value            Name              Line              Pos               
+
+
+U                 GARBAGE           Double            0                 1                 
+U                 3.14159           doubleNumber      1                 2                 
+U                 11                constantValue     3                 4                 
+-                 -                 otherValue        3                 6                 
