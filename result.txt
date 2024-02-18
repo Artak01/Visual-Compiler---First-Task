@@ -1,0 +1,7 @@
+Type              Value             Name              Line              Pos               
+
+d                 GARBAGE           Double            0                 1                 
+ui                10                integerNumber     1                 0                 
+d                 3.14159           doubleNumber      1                 2                 
+ci                11                constantValue     3                 4                 
+-                 -                 otherValue        3                 6                 
